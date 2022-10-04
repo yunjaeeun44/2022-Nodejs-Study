@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+#보안관련
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
